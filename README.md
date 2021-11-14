@@ -5,10 +5,10 @@
 This repository contains program code and documentation for the execution and understanding of the CastleSky Application. This program was developed in accordance with curricular requirements from Nanyang Technological University, School of Computer Science and Engineering Course CZ3003: Software Systems Analysis and Design.
 
 ## *Other documents*
-- [Software Requirement Specification (SRS)]()
+- [Software Requirement Specification (SRS)](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Software-Requirement-Specification.pdf)
 - [Design Document (DD)](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Design-Document.pdf)
-- [Test Cases and Test Summary]()
-- [Use Case Descriptions]()
+- [Test Cases and Test Summary](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Test-Cases-And-Test-Summary-Report.pdf)
+- [Use Case Descriptions](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Use-Case-Descriptions.pdf)
 - [Demonstration Video Link](https://youtu.be/GdghDm-l2Dk)
 - [Presentation Video Link](https://youtu.be/hzkrFMXHMFM)
 - [Presentation Slides Link](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Presentation-Slides.pdf)
