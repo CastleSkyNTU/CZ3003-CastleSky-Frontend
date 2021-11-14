@@ -28,7 +28,7 @@ CastleSky is a Unity Windows-based educational game. It is an open world game en
 CastleSky makes learning a joy for students of all ages. The current focus will be on primary school students, but CastleSky can be easily expanded upon to cater to other levels too.
 
 ## Tech Details
-1. The frontend is developed using Unity
+1. The [frontend](https://github.com/CastleSkyNTU/CastleSky) is developed using Unity
 2. The [backend](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Backend) is developed using NodeJS
 
 
