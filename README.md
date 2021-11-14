@@ -10,6 +10,7 @@ This repository contains program code and documentation for the execution and un
 - [Test Cases and Test Summary](https://github.com/DouMaokang/SoftwareGenius/blob/master/Doc/Test%20Summary.pdf)
 - [Demonstration Video Link](https://youtu.be/AXvxKKn1OTU)
 - [Presentation Video Link](https://youtu.be/AXvxKKn1OTU)
+- [Presentation Slides Link]()
 
 
 ## Description
