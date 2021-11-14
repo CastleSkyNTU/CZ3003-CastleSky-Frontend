@@ -21,7 +21,7 @@ CastleSky makes learning a joy for students of all ages. The current focus will 
 
 ## Tech Details
 1. The frontend is developed using Unity
-2. The backend is developed using NodeJS
+2. The [backend](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Backend) is developed using NodeJS
 
 
 ## Instruction for Running CastleSky
