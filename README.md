@@ -8,9 +8,17 @@ This repository contains program code and documentation for the execution and un
 - [Software Requirement Specification (SRS)]()
 - [Design Document (DD)](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Design-Document.pdf)
 - [Test Cases and Test Summary](https://github.com/DouMaokang/SoftwareGenius/blob/master/Doc/Test%20Summary.pdf)
+- [Use Case Descriptions]()
 - [Demonstration Video Link](https://youtu.be/AXvxKKn1OTU)
 - [Presentation Video Link](https://youtu.be/AXvxKKn1OTU)
 - [Presentation Slides Link](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Presentation-Slides.pdf)
+
+## *Confluence Links*
+Our documentation was done primarily on Confluence, and exported to Github. For nicer and more readable versions of the above documents, click on the Confluence links below
+- [Software Requirement Specification (SRS)](https://castlesky.atlassian.net/wiki/spaces/CS/pages/1966154/Software+Requirement+Specification)
+- [Design Document (DD)](https://castlesky.atlassian.net/wiki/spaces/CS/pages/12452170/Design+Document)
+- [Test Cases and Test Summary](https://castlesky.atlassian.net/wiki/spaces/CS/pages/42598401/Test+Cases+and+Test+Coverage+Report)
+- [Use Case Descriptions](https://castlesky.atlassian.net/wiki/spaces/CS/pages/5439515/Use+Case+Descriptions)
 
 
 ## Description
