@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains program code and documentation for the execution and understanding of the CastleSky Application. This program was developed in accordance with curricular requirements from Nanyang Technological University, School of Computer Science and Engineering Course CZ3003: Software Systems Analysis and Design.
+This repository contains links to the program code and documentation for the execution and understanding of the CastleSky Application. This program was developed in accordance with curricular requirements from Nanyang Technological University, School of Computer Science and Engineering Course CZ3003: Software Systems Analysis and Design. Links to the repository containing the program code can be found below.
 
 ## *Other documents*
 - [Software Requirement Specification (SRS)](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Software-Requirement-Specification.pdf)
