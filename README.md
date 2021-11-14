@@ -43,7 +43,7 @@ CastleSky makes learning a joy for students of all ages. The current focus will 
    Option 1 <br /> 
    - Drag the application to the applications folder <br /> 
    - sudo xattr -d -r com.apple.quarantine /Applications/CITS_MACOS.app <br /> 
-   Option 2 <br /> 
+ Option 2 <br /> 
    sudo chmod -R 755 CITS_MACOS.app <br /> 
 3. Click on the application to run the file
 4. If any popup appears, just click "Open"
