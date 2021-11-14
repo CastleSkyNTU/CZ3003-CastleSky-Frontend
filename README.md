@@ -37,10 +37,11 @@ CastleSky makes learning a joy for students of all ages. The current focus will 
 2. Run the file
 3. Enjoy!
 
-### Instructions for Running CastleSky on MacOS (Still in Beta Stage
+### Instructions for Running CastleSky on MacOS (Still in Beta Stage)
 1. Change directory in terminal to where the file is found
 2. Run either
    • sudo xattr -d -r com.apple.quarantine /Applications/CITS_MACOS.app
    • sudo chmod -R 755 CITS_MACOS.app
 3. Click on the application to run the file
-4. Enjoy!
+4. If any popup appears, just click "Open"
+5. Enjoy!
