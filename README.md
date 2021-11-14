@@ -38,8 +38,7 @@ CastleSky makes learning a joy for students of all ages. The current focus will 
 3. Enjoy!
 
 ### Instructions for Running CastleSky on MacOS (Still in Beta Stage)
-1. Change directory in terminal to where the file is found
-2. Choose one of the options below
+1. Choose one of the options below
  
    Option 1
    
@@ -49,8 +48,10 @@ CastleSky makes learning a joy for students of all ages. The current focus will 
  
    Option 2
    
+   - Change directory in terminal to where the file is found
+   
    - <pre>sudo chmod -R 755 CITS_MACOS.app</pre>
    
-3. Click on the application to run the file
-4. If any popup appears, just click "Open"
-5. Enjoy!
+2. Click on the application to run the file
+3. If any popup appears, just click "Open"
+4. Enjoy!
