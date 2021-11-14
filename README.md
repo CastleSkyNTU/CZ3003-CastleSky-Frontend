@@ -7,10 +7,10 @@ This repository contains program code and documentation for the execution and un
 ## *Other documents*
 - [Software Requirement Specification (SRS)]()
 - [Design Document (DD)](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Design-Document.pdf)
-- [Test Cases and Test Summary](https://github.com/DouMaokang/SoftwareGenius/blob/master/Doc/Test%20Summary.pdf)
+- [Test Cases and Test Summary]()
 - [Use Case Descriptions]()
-- [Demonstration Video Link](https://youtu.be/AXvxKKn1OTU)
-- [Presentation Video Link](https://youtu.be/AXvxKKn1OTU)
+- [Demonstration Video Link](https://youtu.be/GdghDm-l2Dk)
+- [Presentation Video Link](https://youtu.be/hzkrFMXHMFM)
 - [Presentation Slides Link](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Presentation-Slides.pdf)
 
 ## *Confluence Links*
@@ -36,3 +36,11 @@ CastleSky makes learning a joy for students of all ages. The current focus will 
 1. Download the executable file in the latest release
 2. Run the file
 3. Enjoy!
+
+### Instructions for Running CastleSky on MacOS (Still in Beta Stage
+1. Change directory in terminal to where the file is found
+2. Run either
+   • sudo xattr -d -r com.apple.quarantine /Applications/CITS_MACOS.app
+   • sudo chmod -R 755 CITS_MACOS.app
+3. Click on the application to run the file
+4. Enjoy!
