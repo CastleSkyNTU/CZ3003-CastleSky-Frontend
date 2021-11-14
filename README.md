@@ -6,11 +6,11 @@ This repository contains program code and documentation for the execution and un
 
 ## *Other documents*
 - [Software Requirement Specification (SRS)]()
-- [Design Document (DD)]()
+- [Design Document (DD)](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Design-Document.pdf)
 - [Test Cases and Test Summary](https://github.com/DouMaokang/SoftwareGenius/blob/master/Doc/Test%20Summary.pdf)
 - [Demonstration Video Link](https://youtu.be/AXvxKKn1OTU)
 - [Presentation Video Link](https://youtu.be/AXvxKKn1OTU)
-- [Presentation Slides Link]()
+- [Presentation Slides Link](https://github.com/CastleSkyNTU/CZ3003-CastleSky-Frontend/blob/main/Presentation-Slides.pdf)
 
 
 ## Description
